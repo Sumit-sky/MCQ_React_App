@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MCQ_React_App/static/css/main.3c075d79.css",
+    "main.js": "/MCQ_React_App/static/js/main.89d2c2a8.js",
+    "static/js/453.6ed28962.chunk.js": "/MCQ_React_App/static/js/453.6ed28962.chunk.js",
+    "static/media/logo.svg": "/MCQ_React_App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MCQ_React_App/index.html",
+    "main.3c075d79.css.map": "/MCQ_React_App/static/css/main.3c075d79.css.map",
+    "main.89d2c2a8.js.map": "/MCQ_React_App/static/js/main.89d2c2a8.js.map",
+    "453.6ed28962.chunk.js.map": "/MCQ_React_App/static/js/453.6ed28962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c075d79.css",
+    "static/js/main.89d2c2a8.js"
+  ]
+}
